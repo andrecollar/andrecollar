@@ -10,6 +10,7 @@
   </a>
 </p>
 </div>
+<div> <a href="https://github.com/Anmol-Baranwal"> <img src="https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTMxNTE2NzIsIm5iZiI6MTc1MzE1MTM3MiwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk4NTYtM2I0NjA3YTEtMWNjNi00MWYxLTkyNmYtODkyYWU4ODBlN2E1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzIyVDAyMjkzMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWM3YTE5MjMwNzg0NzU3ZmIyMDE4OTk1YzY3ZmZkMTVjNTM0M2FlN2YyOTNiODI2Y2M3YWE3OWViMjU3OWQ5YzgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.mJk8SYd7K13YvsMvzrSYueq1Tc26giHHqC_WC2hO3WA">
 
 ##
 
@@ -27,5 +28,3 @@
   
 </div>
 
-##
-<div><img height="30%" src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif"> </div>

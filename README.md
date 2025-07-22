@@ -28,5 +28,5 @@
   
 </div>
 
-![snake gif] https://github.com/andrecollar/andrecollar/blob/output/github-contribution-grid-snake.svg
+<div> <img src="https://github.com/andrecollar/andrecollar/blob/output/github-contribution-grid-snake.svg">
 

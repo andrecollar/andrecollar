@@ -1,6 +1,5 @@
-##
-
 📚 Cursando o 5º semestre de Ciência de Dados na Universidade Virtual de São Paulo - (UNIVESP). <br>
+##
 
 ##### Trabalhando atualmente com:
 
@@ -11,6 +10,8 @@
   </a>
 </p>
 </div>
+
+##
 
 ##### Contatos:
 

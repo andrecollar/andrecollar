@@ -12,9 +12,9 @@
 ##### Contatos:
 
 <div > 
-  <a href = "mailto:andrecollar@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/andre-collar/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://instagram.com/andrecollar" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+  <a href = "mailto:andrecollar@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=Plastic&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/andre-collar/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=Plastic&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/andrecollar" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=Plastic&logo=instagram&logoColor=white"</a>
  <a href=""></a> 
     
 ##

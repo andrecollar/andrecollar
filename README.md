@@ -28,3 +28,5 @@
   
 </div>
 
+<div> ![Snake animation Contribution Graph]<img src="https://raw.githubusercontent.com/andrecollar/andrecollar/output/github-contribution-grid-snake-dark.svg">
+

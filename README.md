@@ -1,4 +1,5 @@
 📚 Cursando o 5º semestre de Ciência de Dados na Universidade Virtual de São Paulo - (UNIVESP). <br>
+
 ##
 
 ##### Trabalhando atualmente com:
@@ -37,4 +38,3 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/andrecollar/andrecollar/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-

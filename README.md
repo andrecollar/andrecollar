@@ -24,9 +24,8 @@
 ##
  
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=andrecollar&show_icons=true&theme=highcontrast&count_private=true&hide=stars&hide_border=true&border_radius=6" alt="github stats" /> 
+  <img width="49%" height="195px" src="https://andrecollar-vercel-app.vercel.app/api?username=andrecollar&show_icons=true&theme=highcontrast&count_private=true&hide=stars&hide_border=true&border_radius=6" alt="github stats" /> 
   <img width="47%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrecollar&layout=compact&theme=highcontrast&hide_border=true&border_radius=6" />
-  
 </div>
 
 ##

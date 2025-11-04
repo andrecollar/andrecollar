@@ -27,13 +27,3 @@
   <img width="49%" height="195px" src="https://github-readme-stats-theta-peach-90.vercel.app//api?username=andrecollar&show_icons=true&theme=highcontrast&count_private=true&hide=stars&hide_border=true&border_radius=6" alt="github stats" /> 
   <img width="47%" height="195px" src="https://github-readme-stats-theta-peach-90.vercel.app//api/top-langs/?username=andrecollar&layout=compact&count_private=true&theme=highcontrast&hide_border=true&border_radius=6" />
 </div>
-
-##
-
-<div>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andrecollar/andrecollar/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andrecollar/andrecollar/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/andrecollar/andrecollar/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>

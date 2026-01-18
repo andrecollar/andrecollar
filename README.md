@@ -1,4 +1,4 @@
-📚 Cursando o 5º semestre de Ciência de Dados na Universidade Virtual de São Paulo - (UNIVESP). <br>
+📚 Cursando o 6º semestre de Ciência de Dados na Universidade Virtual de São Paulo - (UNIVESP). <br>
 
 ##
 

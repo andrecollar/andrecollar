@@ -25,5 +25,5 @@ Olá! Sou André, estudante de Ciência de Dados na UNIVESP (6º semestre) e des
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats-theta-peach-90.vercel.app/api?username=andrecollar&show_icons=true&theme=highcontrast&count_private=true&hide=stars,issues&hide_border=true&border_radius=6&include_all_commits=true&show=prs_merged" alt="github stats" />
-  <img width="47%" height="195px" src="https://github-readme-stats-theta-peach-90.vercel.app/api/top-langs/?username=andrecollar&personal_contributions=true&orgs=demandanet&layout=compact&personal_pages=10&personal_limit=150&theme=highcontrast&hide_border=true&border_radius=6" alt="top langs" />
+  <img width="47%" height="195px" src="https://github-readme-stats-theta-peach-90.vercel.app/api/top-langs/?username=andrecollar&personal_contributions=true&orgs=demandanet&layout=compact&personal_pages=10&personal_limit=150&theme=highcontrast&hide_border=true&border_radius=6&hide=JSON,Markdown" alt="top langs" />
 </div>

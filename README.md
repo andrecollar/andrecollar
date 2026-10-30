@@ -1,5 +1,5 @@
 <h1 align="center">André Collar</h1>
-<p align="center"><strong>Desenvolvedor Web · Estudante de Ciência de Dados</strong></p>
+<p align="center"><strong>Desenvolvedor na <a href="https://demandanet.com">DemandaNet</a> · Estudante de Ciência de Dados</strong></p>
 <p align="center">PHP · HTML · CSS · Bootstrap</p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ## Sobre mim
 
-Sou desenvolvedor web e estudante de **Ciência de Dados na UNIVESP**. Minha trajetória reúne o desenvolvimento de aplicações web e o estudo de dados, com foco em transformar aprendizado em soluções práticas.
+Sou desenvolvedor na [DemandaNet](https://demandanet.com), onde trabalho no desenvolvimento e na manutenção de soluções web. Também sou estudante de **Ciência de Dados na UNIVESP**, unindo experiência prática em desenvolvimento ao estudo de dados.
 
 - **Desenvolvimento web:** PHP, HTML, CSS e Bootstrap.
 - **Formação:** graduação em Ciência de Dados pela UNIVESP.
